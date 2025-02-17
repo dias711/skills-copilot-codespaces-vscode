@@ -1,3 +1,3 @@
 function skillsMember() {
-  return 'JS';
+    return "skillsMember";
 }
